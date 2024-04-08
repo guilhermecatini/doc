@@ -1,0 +1,1921 @@
+{
+	"result": {
+		"x_nree_rh_req": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Desligamento de Colaborador": {
+					"rp_sys_id": "a35ac0bb1bd4515039520f60f54bcb53",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Movimentar Colaborador": {
+					"rp_sys_id": "87ad25451b5f819039520f60f54bcb29",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						},
+						{
+							"question_text": "Nova Filial",
+							"name": "new_branch"
+						},
+						{
+							"question_text": "Filial",
+							"name": "employ_branch"
+						}
+					]
+				},
+				"Atualização Etnia Racial": {
+					"rp_sys_id": "571ad5151b9c711039520f60f54bcb68",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Admissão de Colaborador": {
+					"rp_sys_id": "d1983d611b270910168b0d8fe54bcb5f",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "v_branch_cc"
+						},
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "v_new_branch"
+						}
+					]
+				},
+				"Férias": {
+					"rp_sys_id": "5e1ece4e1b43015039520f60f54bcbc2",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "tm_filial"
+						}
+					]
+				},
+				"Change Employee Registration": {
+					"rp_sys_id": "b1abc9f01b0aa990168b0d8fe54bcb2a",
+					"variables": []
+				},
+				"Employee Termination": {
+					"rp_sys_id": "24a7eca31b756590168b0d8fe54bcb01",
+					"variables": []
+				},
+				"Solicitar Afastamento/Retorno ao Trabalho": {
+					"rp_sys_id": "6598c5dc1bf1815039520f60f54bcb4c",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "employee_branch"
+						}
+					]
+				},
+				"Benefícios": {
+					"rp_sys_id": "d340cace1b03015039520f60f54bcb43",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "employee_branch"
+						}
+					]
+				},
+				"Solicitações Ponto Tel": {
+					"rp_sys_id": "344b71f51b0d6150168b0d8fe54bcb6c",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"PLR": {
+					"rp_sys_id": "ee3bed7c1b856d10168b0d8fe54bcbec",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Envio do Recibo de Entrega da REINF": {
+					"rp_sys_id": "2bd611b41b456d10168b0d8fe54bcbbf",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Movimentar Colaborador - Não Integradas": {
+					"rp_sys_id": "d5d5a1cc1b896910168b0d8fe54bcbe1",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Consultar Hierarquia": {
+					"rp_sys_id": "b00727481ba06d10168b0d8fe54bcb64",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Férias Compulsórias": {
+					"rp_sys_id": "4baa73e71bad1d90168b0d8fe54bcb4c",
+					"variables": []
+				},
+				"Teste Admissão de Colaborador": {
+					"rp_sys_id": "9339e8421be8d11039520f60f54bcb48",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "v_branch_cc"
+						},
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial de Acesso",
+							"name": "filial_de_acesso"
+						}
+					]
+				},
+				"Copy of Manutenção de dados do sistema (DP)": {
+					"rp_sys_id": "0252634c1b905110168b0d8fe54bcb7e",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						},
+						{
+							"question_text": "Branch",
+							"name": "v_branch_list"
+						}
+					]
+				},
+				"Manutenção de dados do sistema (DP)": {
+					"rp_sys_id": "309dd19c1bc0d110168b0d8fe54bcbd0",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Copy of Atualização contratual": {
+					"rp_sys_id": "5a76cf121bb30d10168b0d8fe54bcb81",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Atualização de Ebtida": {
+					"rp_sys_id": "146147d61b730d10168b0d8fe54bcb88",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Devolução de ativo": {
+					"rp_sys_id": "75af0cea1bc74150168b0d8fe54bcbf8",
+					"variables": []
+				},
+				"Atualização Contratual": {
+					"rp_sys_id": "3ebfdb601bbe411039520f60f54bcbc8",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Carga de Dados": {
+					"rp_sys_id": "81fe4a181b7a011039520f60f54bcb61",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Enviar Informações para Folha": {
+					"rp_sys_id": "868908331b26051039520f60f54bcb86",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						},
+						{
+							"question_text": "Request branch",
+							"name": "branch"
+						},
+						{
+							"question_text": "New branch",
+							"name": "new_branch"
+						}
+					]
+				},
+				"Alterar Cadastro de Colaboradores": {
+					"rp_sys_id": "44e8cf881b42051039520f60f54bcbf0",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "n_branch"
+						},
+						{
+							"question_text": "Filial",
+							"name": "branch"
+						}
+					]
+				},
+				"Manutenção de dados do sistema (RH)": {
+					"rp_sys_id": "b9567e4c1bc6c110168b0d8fe54bcb26",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "branch"
+						}
+					]
+				},
+				"Obrigações Acessórias": {
+					"rp_sys_id": "3019b6f81b750550168b0d8fe54bcb14",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Cálculo Rescisório": {
+					"rp_sys_id": "b4ce45581bb90150168b0d8fe54bcbc4",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				},
+				"Autosserviço RH": {
+					"rp_sys_id": "c35e70801b39015039520f60f54bcb6b",
+					"variables": [
+						{
+							"question_text": "Ramification",
+							"name": "location"
+						}
+					]
+				}
+			}
+		},
+		"x_nree_corp_req": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Solicitar bolsa de estudo": {
+					"rp_sys_id": "331c137f1bc3711039520f60f54bcb12",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Branch Employee",
+							"name": "branch_employee"
+						}
+					]
+				},
+				"Contratos - Não Integradas": {
+					"rp_sys_id": "395b8a831b0afd1039520f60f54bcb95",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Processo Seletivo": {
+					"rp_sys_id": "ecaac0531b10bd10168b0d8fe54bcb52",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Processos": {
+					"rp_sys_id": "8cc1a1b51b58f510168b0d8fe54bcb6e",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Problemas - Captação": {
+					"rp_sys_id": "995b2ca11bdc7510168b0d8fe54bcb86",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Treinamentos": {
+					"rp_sys_id": "ee9bfea01bdc7110168b0d8fe54bcb8f",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Backoffice Captação": {
+					"rp_sys_id": "817d0e9a1b80bd1039520f60f54bcb5d",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Criação/Manutenção de usuário da AIA": {
+					"rp_sys_id": "cd2dfae81bb56950168b0d8fe54bcbdf",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Aprovação de Template de Campanha": {
+					"rp_sys_id": "5da925bf1b192110168b0d8fe54bcbbf",
+					"variables": []
+				},
+				"Solicitar Obras": {
+					"rp_sys_id": "677ed34d1bd99510168b0d8fe54bcb0a",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Manutenção Predial": {
+					"rp_sys_id": "4ed75bbb1b81d510168b0d8fe54bcb64",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Padronização Pós Graduação": {
+					"rp_sys_id": "386864c71bc199d039520f60f54bcbea",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Controle de Documentos Obrigatórios": {
+					"rp_sys_id": "12e5eb721bc51dd0168b0d8fe54bcb86",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Padronização Graduação": {
+					"rp_sys_id": "d055abf21b0959d039520f60f54bcbcd",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Autorização de Brindes": {
+					"rp_sys_id": "1e9e8a261bc119d0168b0d8fe54bcbb8",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Autorização de Patrocínio": {
+					"rp_sys_id": "1b6bc9621b0955d039520f60f54bcb35",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Autorização de Doações": {
+					"rp_sys_id": "a79afca61b4555d039520f60f54bcb9b",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Compliance - Doação - teste": {
+					"rp_sys_id": "9b67351a1b81d1d039520f60f54bcbe4",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_request_task": {
+			"has_record_producer": false,
+			"record_producers": {}
+		},
+		"x_nree_edu_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Gerador de Demonstrativo de Pagamento de Docentes - IPEMED": {
+					"rp_sys_id": "5816a1221b55fd10168b0d8fe54bcbf2",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Incluir ou Encerrar Vínculo de Coordenação de Curso": {
+					"rp_sys_id": "06abea341b50311039520f60f54bcb96",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Aprovação de Matrícula e Rematrícula de Aluno Inadimplente": {
+					"rp_sys_id": "8a41a3ae1b8c7d10168b0d8fe54bcb19",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				}
+			}
+		},
+		"x_nree_csa_invoice_reminder_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Lembretes Notas Fiscais": {
+					"rp_sys_id": "8054a2f21b033150168b0d8fe54bcb42",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_inform_code_project_manager_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Informar Código e Gestor do Projeto": {
+					"rp_sys_id": "3c9bcfe51b0b3d9039520f60f54bcb06",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_rh_aso": {
+			"has_record_producer": false,
+			"record_producers": {}
+		},
+		"x_nree_csa_automatic_renewal_b2b_contracts_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Renovação Automática - Contratos B2B": {
+					"rp_sys_id": "a835ec881b98c210168b0d8fe54bcbcc",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_deferred_revenue_recognition_b2b_saas_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Reconhecimento de Receita Diferida B2B - SAAS": {
+					"rp_sys_id": "b27424a51b7fb510168b0d8fe54bcb3d",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_b2b_deferred_movement_saas_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Receita Diferida B2B - SAAS/Recorrente": {
+					"rp_sys_id": "b6f14d291bff355039520f60f54bcb6e",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_b2b_deferred_revenue_recognition_project": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Reconhecimento de Receita Diferida B2B - PROJETO": {
+					"rp_sys_id": "be423f8d1bff3510168b0d8fe54bcb84",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_creation_b2b_deferred_movement_project_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Criação do movimento de saldo da Receita Diferida B2B": {
+					"rp_sys_id": "3229bd6d1b77f510168b0d8fe54bcb34",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_b2p_deferred_revenue_recognition_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Reconhecimento de receita diferida B2P": {
+					"rp_sys_id": "08a6761e1be0c250168b0d8fe54bcb5e",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_update_metadata_recognition_deferred_revenue_b2b_project_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Atualização do metadados reconhecimento da receita diferida B2B Projeto": {
+					"rp_sys_id": "810e5b3c1b6c8a10168b0d8fe54bcbfd",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_project_evolution_note_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Apontamento de evolução do projeto": {
+					"rp_sys_id": "f91497b71baf791039520f60f54bcb64",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_csa_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Escritório de cobranças": {
+					"rp_sys_id": "9d52db741b827d10168b0d8fe54bcb03",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Cadastro de Novo Projeto Capex": {
+					"rp_sys_id": "53ced0b91b5ae910168b0d8fe54bcbf2",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Demais solicitações": {
+					"rp_sys_id": "9a2d987c1b52e510168b0d8fe54bcb86",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Repasse Pós-Parceria": {
+					"rp_sys_id": "3bcbb1e11b656d1039520f60f54bcb0a",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Solicitação de cartão digital": {
+					"rp_sys_id": "445b3b181b256510168b0d8fe54bcb20",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Envio de Impostos e Tributos": {
+					"rp_sys_id": "07de41f71b11651039520f60f54bcb0d",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Cadastrar usuário substituto": {
+					"rp_sys_id": "a9d8688b1b0d611039520f60f54bcbdb",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Cadastrar Outorga de Procuração no e-CAC": {
+					"rp_sys_id": "9582840b1b492110168b0d8fe54bcb50",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Acesso ao módulo de caixa TEF": {
+					"rp_sys_id": "50ee0fd41b20ad10168b0d8fe54bcbf1",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Gestão de Acordos Judiciais": {
+					"rp_sys_id": "b8735e881b20ad1039520f60f54bcb8f",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Prestação de Contas - Convênios e Contrapartida": {
+					"rp_sys_id": "e44b6cf31b94e910168b0d8fe54bcbad",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Consultar Gestores de Centro de Custo": {
+					"rp_sys_id": "d684bd921bd0e51039520f60f54bcb5f",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Adiantamento de Viagens": {
+					"rp_sys_id": "7ac846711bc7951039520f60f54bcb3a",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Prestação de Contas Clínicas – Recebimento em espécie": {
+					"rp_sys_id": "611e099f1bf69910168b0d8fe54bcbd8",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Alterar Gestor de Centros de Custo em lote": {
+					"rp_sys_id": "15beff651b3a1510168b0d8fe54bcb3c",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Bolsas e Financiamento Desligamento": {
+					"rp_sys_id": "0b769302db42d9103c54e2331496198c",
+					"variables": []
+				},
+				"Análise de Bolsas e Financiamentos_Desligamento": {
+					"rp_sys_id": "65161bcedb02d9103c54e233149619c5",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Cadastro e Manutenção de Serviços": {
+					"rp_sys_id": "da5703151bc21d10168b0d8fe54bcbdf",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Devolução de Clientes – Digitais": {
+					"rp_sys_id": "2f30d83c1b7d151039520f60f54bcb91",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Solicitar Transferência Ativo Intercompany": {
+					"rp_sys_id": "b3bfd5fd1bf4d950168b0d8fe54bcb11",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Análise de Bolsas e Financiamentos - Desligamento": {
+					"rp_sys_id": "8eca559b1b28991039520f60f54bcba6",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Parametrização Contábil (Serviço Educacional)": {
+					"rp_sys_id": "9561004b1b64191039520f60f54bcb4a",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Gestão de CNDs e Certificados": {
+					"rp_sys_id": "0027e3fe1bec9d10168b0d8fe54bcb01",
+					"variables": []
+				},
+				"Criação de Nota de Débito entre Coligadas": {
+					"rp_sys_id": "cacb53fe1bac9d10168b0d8fe54bcbd5",
+					"variables": []
+				},
+				"Cadastrar/Alterar Natureza Orçamentária de Itens Existentes": {
+					"rp_sys_id": "b6d536ba1b68d51039520f60f54bcb2a",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Prestação de contas desligamento": {
+					"rp_sys_id": "9531045a1be8151039520f60f54bcbcd",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Solicitar Referências": {
+					"rp_sys_id": "42ce1c821b68d11039520f60f54bcba5",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Movimentação Intercompany": {
+					"rp_sys_id": "7ec236a91ba85910168b0d8fe54bcbe8",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Comprovante de Pagamento": {
+					"rp_sys_id": "bca6120a1b94591039520f60f54bcbb6",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Confirmar Crédito Judicial": {
+					"rp_sys_id": "f5ac0a2c1b10d110168b0d8fe54bcbe8",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Manutenção Predial": {
+					"rp_sys_id": "caf527981b5c511039520f60f54bcbdb",
+					"variables": []
+				},
+				"Solicitar/Atualizar Certificado": {
+					"rp_sys_id": "04d7e53e1b081d10168b0d8fe54bcbfc",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Repasse a Fornecedores (Bolsas e Financiamentos)": {
+					"rp_sys_id": "6178b3b11b40191039520f60f54bcb38",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Pagamento Manual (Sem Borderô)": {
+					"rp_sys_id": "38487b711b40191039520f60f54bcbed",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Pagamento a Acionistas/Antigos Acionistas": {
+					"rp_sys_id": "16643bb91b00191039520f60f54bcb9e",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Pagamento de Aquisição de Instituição/Ajuste Pós Closing": {
+					"rp_sys_id": "593477b91b00191039520f60f54bcb3b",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Criar Lançamento para Ajuste de Conciliação": {
+					"rp_sys_id": "a4a3b7791b00191039520f60f54bcb43",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Transferir Repasse de Financiamento": {
+					"rp_sys_id": "e953f3391b00191039520f60f54bcb1f",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Pagamento de Proventos da Folha": {
+					"rp_sys_id": "9fa2f3391b00191039520f60f54bcb14",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Solicitar Baixa PerDcomp/Crédito Educativo": {
+					"rp_sys_id": "9d0febf11b00191039520f60f54bcb1b",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Abrir Conta Caixa para Ajustes": {
+					"rp_sys_id": "67ac1f791b8cd51039520f60f54bcb48",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Serviços Educacionais": {
+					"rp_sys_id": "e0622ab11b08d51039520f60f54bcb0c",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Revalidar Acordos": {
+					"rp_sys_id": "2e7cd6b91bc4d51039520f60f54bcbc2",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Solicitar Nova Maquineta ou Informar Manutenção": {
+					"rp_sys_id": "38d3aa601bc41510168b0d8fe54bcbb3",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Relatório de Faturamento": {
+					"rp_sys_id": "3eb94aec1b4c911039520f60f54bcb07",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Aprovações de controles SOX": {
+					"rp_sys_id": "c677a5931b7f4110168b0d8fe54bcbb9",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Revisar Tabela de Preços e Planos de Pagamentos": {
+					"rp_sys_id": "e07069db1b3f4110168b0d8fe54bcbce",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Revisar Multa e Juros": {
+					"rp_sys_id": "e754e7ae1b334d10168b0d8fe54bcbd2",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Ajustar Orçamento de Viagens": {
+					"rp_sys_id": "f1a26baa1b334d10168b0d8fe54bcbcf",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Documentos Contábeis": {
+					"rp_sys_id": "9c8e7f231b1bc510168b0d8fe54bcb7b",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Revisão Anual da Realização da ECD": {
+					"rp_sys_id": "c63ef7231b1bc510168b0d8fe54bcbf7",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Alterar Competências": {
+					"rp_sys_id": "db1e77231b1bc510168b0d8fe54bcba2",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Erro de Débito e Crédito": {
+					"rp_sys_id": "50ed73231b1bc510168b0d8fe54bcb04",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Estornar Contabilização": {
+					"rp_sys_id": "3abdbfef1bd7c510168b0d8fe54bcb70",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Conta Contábil e Natureza Orçamentária": {
+					"rp_sys_id": "e0adf3ef1bd7c510168b0d8fe54bcb73",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Cadastro e Manutenção de Centro de Custo": {
+					"rp_sys_id": "6e8cb7af1bd7c510168b0d8fe54bcbb4",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Acesso a Bancos": {
+					"rp_sys_id": "bd2c466b1b13c510168b0d8fe54bcb95",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Identificar Crédito Judicial": {
+					"rp_sys_id": "34213deb1b9f8510168b0d8fe54bcb02",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Aplicar/Resgatar Recursos Financeiros": {
+					"rp_sys_id": "a811312f1b9f8510168b0d8fe54bcb10",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Análise de Crédito de Fornecedor": {
+					"rp_sys_id": "b80139eb1b9f8510168b0d8fe54bcb67",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Monitorar Controle SOx da Tesouraria": {
+					"rp_sys_id": "62f0f9eb1b9f8510168b0d8fe54bcb03",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Quitação de Mútuo": {
+					"rp_sys_id": "17e0f5eb1b9f8510168b0d8fe54bcb3a",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Realizar/Autorizar Mútuo/AFAC": {
+					"rp_sys_id": "4ce0f5eb1b9f8510168b0d8fe54bcbf7",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Branch lender",
+							"name": "branch_lender"
+						},
+						{
+							"question_text": "Borrowing branch",
+							"name": "borrowing_branch"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Diário de Pagamento": {
+					"rp_sys_id": "98b075eb1b9f8510168b0d8fe54bcb6b",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Abertura/Encerramento de Conta": {
+					"rp_sys_id": "44a031eb1b9f8510168b0d8fe54bcb40",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Informe de Rendimento PJ": {
+					"rp_sys_id": "ca8079ab1b9f8510168b0d8fe54bcbf3",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Fundo Fixo": {
+					"rp_sys_id": "47603dab1b9f8510168b0d8fe54bcb04",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"Cartão Corporativo": {
+					"rp_sys_id": "056f616b1b9f8510168b0d8fe54bcb50",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Filial",
+							"name": "filial"
+						}
+					]
+				},
+				"2ª via de Nota Fiscal de Aluno": {
+					"rp_sys_id": "245730d91b9bc950168b0d8fe54bcb62",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Faturamento de Aluguel": {
+					"rp_sys_id": "13c9b5141b5bc550168b0d8fe54bcb06",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Informativos para TVs do CSA": {
+					"rp_sys_id": "442c29181b1bc550168b0d8fe54bcbee",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Relatório de Viagens": {
+					"rp_sys_id": "3938e1541b1bc550168b0d8fe54bcb9e",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Branch office",
+							"name": "v_branch_office"
+						}
+					]
+				},
+				"Aprovações SPED": {
+					"rp_sys_id": "be0c76801bdf8550168b0d8fe54bcb7c",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Criar e Enviar Comunicado via Informa CSA": {
+					"rp_sys_id": "10653a731bcf495039520f60f54bcbba",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Cadastrar/Alterar Centro de Custo no Sistema de Viagens": {
+					"rp_sys_id": "069b62bf1b4f495039520f60f54bcb6a",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Bloquear Viajante": {
+					"rp_sys_id": "94c12e3b1b0f495039520f60f54bcb85",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Alterar Hierarquia no Sistema de Viagens": {
+					"rp_sys_id": "b33a597b1bc3495039520f60f54bcb21",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Cadastrar Viajante": {
+					"rp_sys_id": "b00155f71b8f4550168b0d8fe54bcbd6",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Geração de Movimento Financeiro": {
+					"rp_sys_id": "5ab1f03b1b0f4550168b0d8fe54bcb89",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Calcular IR Mútuo/ IOF - Longo Prazo": {
+					"rp_sys_id": "b31114f71b8b4550168b0d8fe54bcbfa",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Enviar Informações para Fiscal": {
+					"rp_sys_id": "6d94e2c71b4bc150168b0d8fe54bcb85",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Solicitar Baixa e Transferência": {
+					"rp_sys_id": "9bf8aa2c1b0bc910168b0d8fe54bcb00",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Regularização de Conciliação": {
+					"rp_sys_id": "e85881601bcf891039520f60f54bcbd9",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Suporte à Auditoria": {
+					"rp_sys_id": "630b1c581b438910168b0d8fe54bcbf0",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Aprovação de Bolsas pela Diretoria ": {
+					"rp_sys_id": "5631df8c1b4f491039520f60f54bcb6e",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Criar Novas Bolsas, Descontos ou Financiamentos": {
+					"rp_sys_id": "d09147b71b32491039520f60f54bcba4",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Registrar Controle Sox": {
+					"rp_sys_id": "494e4eb31b3a091039520f60f54bcbd9",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						}
+					]
+				},
+				"Incluir/Alterar grupo de patrimônio": {
+					"rp_sys_id": "22c315031bf28510168b0d8fe54bcb7a",
+					"variables": []
+				},
+				"Access": {
+					"rp_sys_id": "f1ef548c1b35015039520f60f54bcb2b",
+					"variables": []
+				},
+				"Autosserviço CSA": {
+					"rp_sys_id": "fb66d57d1b2d411039520f60f54bcb2b",
+					"variables": [
+						{
+							"question_text": "Branch",
+							"name": "location"
+						},
+						{
+							"question_text": "Location",
+							"name": "location_cnd"
+						}
+					]
+				},
+				"Test": {
+					"rp_sys_id": "645e87951bed0150168b0d8fe54bcbc8",
+					"variables": []
+				}
+			}
+		},
+		"x_nree_artefatos_task_cubos": {
+			"has_record_producer": false,
+			"record_producers": {}
+		},
+		"x_nree_pms_request": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Solicitação de Documentos Fiscais": {
+					"rp_sys_id": "1226aa431b6cc650168b0d8fe54bcb52",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Vendas intercompany": {
+					"rp_sys_id": "3ac57fcf1bfffd5039520f60f54bcb2c",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						},
+						{
+							"question_text": "Branch PO",
+							"name": "vs_branch_po"
+						}
+					]
+				},
+				"Cancelamento de Ordem de Compra": {
+					"rp_sys_id": "03cf01861b72bd1039520f60f54bcbfa",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Pagamento Comissão Embaixador": {
+					"rp_sys_id": "c9cd13081bb6f9d039520f60f54bcbe5",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						},
+						{
+							"question_text": "Corporation branch",
+							"name": "branch"
+						}
+					]
+				},
+				"Backlog de Novas Integradas/ Incorporadas": {
+					"rp_sys_id": "acb966d51bb9351039520f60f54bcb67",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Compras descentralizadas": {
+					"rp_sys_id": "7cfd4ae21bb56190168b0d8fe54bcbaf",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Consulta de contratos": {
+					"rp_sys_id": "40da5b161ba5e15039520f60f54bcb19",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Medição de Contrato": {
+					"rp_sys_id": "166c6ec41b569950168b0d8fe54bcb1f",
+					"variables": []
+				},
+				"Requisitar Compra para o Ponto Focal": {
+					"rp_sys_id": "609d6a8c1b0e551039520f60f54bcb4e",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Medição": {
+					"rp_sys_id": "37e43d0b1b50dd10168b0d8fe54bcb99",
+					"variables": []
+				},
+				"Transferência Orçamentária": {
+					"rp_sys_id": "f186c4aa1b11d91039520f60f54bcbe4",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Prestação de Contas de Cartão de Credito de Executivos": {
+					"rp_sys_id": "4248501a1b19591039520f60f54bcb6d",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Prestação de contas fundo fixo": {
+					"rp_sys_id": "7992cae41b999110168b0d8fe54bcb45",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Prestação de Contas de Viagens": {
+					"rp_sys_id": "02abf4a01b9d111039520f60f54bcb9d",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Solicitar reembolsos": {
+					"rp_sys_id": "757bbf8c1b99991039520f60f54bcb24",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Lançamento de pré-nota": {
+					"rp_sys_id": "9bf8c51e1b8991d039520f60f54bcb45",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Pagamento docentes, preceptores, conteudistas, freelancers de áreas afins": {
+					"rp_sys_id": "f36261421bc91d9039520f60f54bcb98",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						},
+						{
+							"question_text": "Branch",
+							"name": "vs_branch"
+						}
+					]
+				},
+				"Cadastrar/Alterar Fornecedor": {
+					"rp_sys_id": "125e3ae51b8ddd90168b0d8fe54bcb2d",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Cadastrar/Alterar Item": {
+					"rp_sys_id": "187e1a291bc9dd90168b0d8fe54bcb98",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"RPA e NF avulsa": {
+					"rp_sys_id": "972ee5491bcd959039520f60f54bcb2e",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Compras Descentralizadas": {
+					"rp_sys_id": "99e1f87c1b45559039520f60f54bcb5f",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Manutenção de Contrato": {
+					"rp_sys_id": "7a7180681b0dd19039520f60f54bcbdc",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						},
+						{
+							"question_text": "Filial",
+							"name": "codfilial"
+						}
+					]
+				},
+				"Substituição de Gestor de Contratos": {
+					"rp_sys_id": "1033d9d71be4991039520f60f54bcb32",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Requisição de Compra": {
+					"rp_sys_id": "7d9ec7a91bec511039520f60f54bcbb1",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Solicitar Aditivo/Encerramento de Contrato": {
+					"rp_sys_id": "44011aa11be45910168b0d8fe54bcb4f",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Lançamento de Documento Não Fiscal": {
+					"rp_sys_id": "756373281bec1510168b0d8fe54bcbee",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						},
+						{
+							"question_text": "Branch",
+							"name": "ld_branch"
+						},
+						{
+							"question_text": "Branch to receive",
+							"name": "branch_to_pay_apportionment"
+						},
+						{
+							"question_text": "Branch to pay",
+							"name": "branch_to_receive_apportionment"
+						},
+						{
+							"question_text": "Branch to pay",
+							"name": "branch_to_receive"
+						},
+						{
+							"question_text": "Branch to receive",
+							"name": "branch_to_pay"
+						}
+					]
+				},
+				"Distribuição de lucro entre coligadas": {
+					"rp_sys_id": "465f122c1b241510168b0d8fe54bcbdf",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Alteração de Ordem de Compra": {
+					"rp_sys_id": "7721f7261bd45d10168b0d8fe54bcbfc",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"NF de benefícios": {
+					"rp_sys_id": "e87747c91b185510168b0d8fe54bcb9e",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						},
+						{
+							"question_text": "Branch",
+							"name": "branch"
+						}
+					]
+				},
+				"Compras Fora da Política": {
+					"rp_sys_id": "80b690cf1bd30510168b0d8fe54bcb6e",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Cadastrar Fornecedor": {
+					"rp_sys_id": "fd97fad41b3e011039520f60f54bcb21",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Testes - Catini": {
+					"rp_sys_id": "ef4ad35b1ba2c110168b0d8fe54bcbde",
+					"variables": []
+				},
+				"Cadastrar Item": {
+					"rp_sys_id": "5c5a0adf1b2e811039520f60f54bcbf4",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Alterar parâmetro estocável": {
+					"rp_sys_id": "6acc86731b9ec110168b0d8fe54bcbcf",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				},
+				"Requisitar itens de estoque": {
+					"rp_sys_id": "aa6ff1761b96cd10168b0d8fe54bcb7d",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				}
+			}
+		},
+		"x_nree_rh_task": {
+			"has_record_producer": false,
+			"record_producers": {}
+		},
+		"x_nree_rh_candidate": {
+			"has_record_producer": false,
+			"record_producers": {}
+		},
+		"x_nree_rbac_dados_de_acesso": {
+			"has_record_producer": false,
+			"record_producers": {}
+		},
+		"x_nree_pms_request_spot_po": {
+			"has_record_producer": true,
+			"record_producers": {
+				"Aprovação de Processo de Compras - SPOT": {
+					"rp_sys_id": "362223f41b2cd51039520f60f54bcb5f",
+					"variables": [
+						{
+							"question_text": "Request Filial",
+							"name": "vs_identify_pms_req_branch"
+						}
+					]
+				}
+			}
+		},
+		"x_nree_corp_task": {
+			"has_record_producer": false,
+			"record_producers": {}
+		},
+		"x_nree_pms_request_task": {
+			"has_record_producer": false,
+			"record_producers": {}
+		},
+		"x_nree_rh_dados_acessos_corporativos": {
+			"has_record_producer": false,
+			"record_producers": {}
+		}
+	}
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultar Tickets</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="main.js"></script>
+    <style>
+        /* body {
+            background-color: black;
+        }
+
+        * {
+            color: white
+        } */
+    </style>
+</head>
+
+<body>
+
+    <div data-ng-app="myApp" class="container-fluid">
+        <div data-ng-controller="myController" class="row">
+
+
+
+            <div class="col-12">
+
+                <div class="accordion" id="accordionExample">
+                    <div class="accordion-item" data-ng-show="v.has_record_producer == true" data-ng-repeat="(k,v) in data">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#c{{k}}" aria-expanded="false" aria-controls="c{{k}}">
+                                <strong>Tablename:</strong> {{k}}
+                            </button>
+                        </h2>
+                        <div id="c{{k}}" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                            <div class="accordion-body">
+
+
+                                <div class="col-12" data-ng-repeat="(kk, vv) in v['record_producers']">
+                                    <table class="table table-dark table-condensed table-hover table-bordered">
+                                        <tr>
+                                            <th style="width: 33.33%;">Serviço</th>
+                                            <th style="width: 33.33%;">Nome da Variável</th>
+                                            <th style="width: 33.34%;">Nome Técnico da Variável</th>
+                                        </tr>
+                                        <tr data-ng-repeat="axvar in vv.variables">
+                                            <td>{{kk}}</td>
+                                            <td>{{axvar.question_text}}</td>
+                                            <td>{{axvar.name}}</td>
+                                        </tr>
+                                    </table>
+                                    <hr />
+                                </div>
+                                
+                                
+
+                                
+
+
+
+                                <!-- <ul data-ng-repeat="(kk, vv) in v['record_producers']">
+                                    <li>teste
+                                        <ul>
+                                            <li>teste</li>
+                                        </ul>
+                                    </li>
+                                </ul> -->
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+</body>
+
+</html>
